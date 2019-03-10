@@ -16,6 +16,7 @@ Some data are missing that are necessary for anyone who wants to attempt the
 challenges. We know that, and we're sorry. Here is a list of the missing bits.
 If you have any of them, please upload in the "issues" section.
 
+- 2004 part 8B: the part of the key that is given (it is mentioned in plaintext 8A)
 - 2005 part 8B: the original wiring diagrams or photos needed to reconstruct the machine
                 (FialkaSettings.pdf)
 - 2006 part 7B: the PDF reconciling the literal decryption with the original plaintext
