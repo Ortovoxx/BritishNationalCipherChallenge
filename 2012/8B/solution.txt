@@ -3,10 +3,12 @@ The cipher acts on blocks of five characters. First, the characters of
 the block of plaintext are converted into triplets of 0,1,2 based on the
 trifid cube and strung together. Then, the string of trinary digits
 undergoes a transposition. The result is then reencoded as characters
-to form a block of the ciphertext.
+to form a block of the ciphertext, in the same fashion as they were
+converted from the plaintext.
 
 Note that this is different from the trifid cipher that is published on
-the internet.
+the internet. Those ciphers use a transposition that always takes every
+third trinary digit.
 
 The cube is
 
