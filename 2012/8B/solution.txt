@@ -8,7 +8,7 @@ converted from the plaintext.
 
 Note that this is different from the trifid cipher that is published on
 the internet. Those ciphers use a transposition that always takes every
-third trinary digit.
+fifth trinary digit, for blocks of five characters.
 
 The cube is
 
@@ -19,4 +19,4 @@ The cube is
 so that the keyword is CYPHER.
 
 The transposition is (4,3,2,1,0,9,8,7,6,5,14,13,12,11,10), which is a
-reversal of each set of 5 trinary digits.
+reversal of each set of five trinary digits.
