@@ -27,9 +27,7 @@ If you have any of them, please upload in the "issues" section.
 These ciphers and/or keys have not been completed. If you know the solutions, please make
 a comment in the "issues" section.
 
-- 2005 part 8B (at the moment, solution is only present as an Excel worksheet)
-- 2012 part 8B
-
+- 2005 part 8B (at the moment, the solution is only present as an Excel worksheet from one of the competitors)
 - 2004 part 8B: We have the keyed deck, but would like to know the phrase used to generate it.
 - 2015 part 8B: We have the keyed deck, but would like to know the phrase used to generate it.
 
