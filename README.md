@@ -9,8 +9,7 @@ archive.org and other sites are also incomplete.
 Stuff in this archive is copyright University of Southampton. If they ask
 me to, I will have to remove them.
 
-All ciphertexts and plaintexts are present. Not all ciphers have been identified
-(see below).
+All ciphertexts and plaintexts are present, and all ciphers have been identified.
 
 Some data are missing that are necessary for anyone who wants to attempt the
 challenges. We know that, and we're sorry. Here is a list of the missing bits.
@@ -24,8 +23,8 @@ If you have any of them, please upload in the "issues" section.
                 that reveals the solution)
 - 2015 part 8B: the original photo of the deck (we have one after two more cards were added)
 
-These ciphers and/or keys have not been completed. If you know the solutions, please make
-a comment in the "issues" section.
+These ciphers and/or keys have not been completed. If you have the missing information,
+please make a comment in the "issues" section.
 
 - 2005 part 8B (at the moment, the solution is only present as an Excel worksheet from one of the competitors)
 - 2004 part 8B: We have the keyed deck, but would like to know the phrase used to generate it.
