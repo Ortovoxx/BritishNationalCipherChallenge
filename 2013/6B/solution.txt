@@ -1,2 +1,3 @@
 railfence cipher
-period = 9
+rails = 9
+offset = 0
