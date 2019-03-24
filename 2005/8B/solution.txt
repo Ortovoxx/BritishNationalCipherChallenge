@@ -13,7 +13,7 @@ rotor 1 wiring
 rotor 2 wiring
 
     0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
-    INZGS3DQEMJWF02KA4R7LO95CTXVP1H8BY6U
+    UINZGS3DQEMJWF02KA4R7LO95CTXVP1H8BY6
 
 reflector wiring
 
@@ -28,4 +28,4 @@ rotor motion
 initial settings (the key)
 
     rotor 1: G
-    rotor 2: P
+    rotor 2: Q
