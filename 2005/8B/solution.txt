@@ -23,7 +23,7 @@ reflector wiring
 rotor motion
 
     rotor 1 advances by one for each character
-    when rotor 1 reaches Z, rotor 2 moves backwards by one
+    when rotor 1 reaches 1, rotor 2 moves backwards by one
 
 initial settings (the key)
 
