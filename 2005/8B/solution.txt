@@ -29,6 +29,3 @@ initial settings (the key)
 
     rotor 1: G
     rotor 2: P
-
-Note: The solution is not unique. This one matches the information given in Pringleupdate.pdf
-and differs by an offset of 1 from the rotor 1 wirings given in the forum.
