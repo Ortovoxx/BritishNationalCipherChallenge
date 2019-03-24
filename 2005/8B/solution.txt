@@ -1,0 +1,31 @@
+Rotor machine
+
+punchcard
+
+    0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+    01IPSM6GNXQRYHTW7D2ZOU58K3AB4ELVF9CJ
+
+rotor 1 wiring
+
+    0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+    LQ9NSE5KDPVRX810IUB46GO37F2HATWZJCMY
+
+rotor 2 wiring
+
+    0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+    INZGS3DQEMJWF02KA4R7LO95CTXVP1H8BY6U
+
+reflector wiring
+
+    0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+    FYTPMGRBQVE7ZXA05NWSUO4HL386J2K9ID1C
+
+rotor motion
+
+    rotor 1 advances by one for each character
+    after rotor 1 reaches Z, rotor 2 moves backwards by one
+
+initial settings (the key)
+
+    rotor 1: F
+    rotor 2: O
