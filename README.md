@@ -21,12 +21,8 @@ If you have any of them, please upload in the "issues" section.
                 (Solution7text.pdf)
 - 2010 part 8B: photo of the "first half" of the deck of cards (we have the final photo
                 that reveals the solution)
-- 2015 part 8B: the original photo of the deck (we have one after two more cards were added)
-
-This cipher has not been completed. If you have the missing information,
-please make a comment in the "issues" section.
-
-- 2005 part 8B (at the moment, the solution is only present as an Excel worksheet from one of the competitors)
+- 2015 part 8B: the original photo of the deck (we have one after two more cards were added,
+                and have a reconstruction of the original)
 
 For those who care about such things, these posters are missing:
 
