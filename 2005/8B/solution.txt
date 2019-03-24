@@ -8,7 +8,7 @@ punchcard
 rotor 1 wiring
 
     0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
-    LQ9NSE5KDPVRX810IUB46GO37F2HATWZJCMY
+    YLQ9NSE5KDPVRX810IUB46GO37F2HATWZJCM
 
 rotor 2 wiring
 
@@ -23,9 +23,12 @@ reflector wiring
 rotor motion
 
     rotor 1 advances by one for each character
-    after rotor 1 reaches Z, rotor 2 moves backwards by one
+    when rotor 1 reaches Z, rotor 2 moves backwards by one
 
 initial settings (the key)
 
-    rotor 1: F
-    rotor 2: O
+    rotor 1: G
+    rotor 2: P
+
+Note: The solution is not unique. This one matches the information given in Pringleupdate.pdf
+and differs by an offset of 1 from the rotor 1 wirings given in the forum.
