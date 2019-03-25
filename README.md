@@ -24,6 +24,10 @@ If you have any of them, please upload in the "issues" section.
 - 2015 part 8B: the original photo of the deck (we have one after two more cards were added,
                 and have a reconstruction of the original)
 
+Other bits we wish we had:
+
+- 2010 part 8B: Jokers.pdf ("Harry's Jokers"), a file of the playing cards
+
 For those who care about such things, these posters are missing:
 
 - 2002 poster
