@@ -1,3 +1,7 @@
-keyed substitution cipher
-key = MONHIERSTUVWXYZABCDFGJKLPQ
-keyword = MONHIER
+two substitution ciphers
+
+lowercase letters: Atbash cipher
+
+uppercase letters: keyed substitution cipher
+    key = MONHIERSTUVWXYZABCDFGJKLPQ
+    keyword = MONHIER
