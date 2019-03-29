@@ -1,3 +1,7 @@
+First, replace "0" with "." (dot), "1" with "-" (dash), and use "2"
+as a separator. Then decode as Morse code. Then decrypt with the
+rotor machine, whose details follow.
+
 Rotor machine
 
 punchcard
