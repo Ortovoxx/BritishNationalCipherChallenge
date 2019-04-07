@@ -1,2 +1,4 @@
 Porta cipher
 key = INOBISPA (or any combination of IJ,MN,OP,AB,IJ,ST,OP,AB)
+
+A forum post says that the key is SONATINA.
