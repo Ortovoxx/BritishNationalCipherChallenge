@@ -4,11 +4,13 @@ This is an unofficial archive of the British National Cipher Challenge
 (https://www.cipherchallenge.org/). The purpose is to collect all parts
 of the challenges in one place and to preserve them before they are lost
 to bit rot and server decay. The official site only goes back two years, and
-archive.org and other sites are also incomplete.
+archive.org and other sites are also incomplete. Preserving them allows
+competitors (or anyone else who is interested) to use them as practice.
 
-Stuff in this archive is copyright University of Southampton.
+Stuff in this archive is copyright University of Southampton (except for the
+identification of ciphers and keys ("solution.txt" for each challenge)).
 
-All ciphertexts and plaintexts are present, and all ciphers have been identified.
+All ciphertexts and plaintexts are present, and all ciphers and keys have been identified.
 
 Some data are missing that are necessary for anyone who wants to attempt the
 challenges. We know that, and we're sorry. Here is a list of the missing bits.
