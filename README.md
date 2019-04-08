@@ -6,8 +6,7 @@ of the challenges in one place and to preserve them before they are lost
 to bit rot and server decay. The official site only goes back two years, and
 archive.org and other sites are also incomplete.
 
-Stuff in this archive is copyright University of Southampton. If they ask
-me to, I will have to remove them.
+Stuff in this archive is copyright University of Southampton.
 
 All ciphertexts and plaintexts are present, and all ciphers have been identified.
 
@@ -27,6 +26,7 @@ If you have any of them, please upload in the "issues" section.
 Other bits we wish we had:
 
 - 2010 part 8B: Jokers.pdf ("Harry's Jokers"), a file of the playing cards
+- 2012 Harry's Game (following the 2011 competition): any ciphertexts after 2B
 
 For those who care about such things, these posters are missing:
 
