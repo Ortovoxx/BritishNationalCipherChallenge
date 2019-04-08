@@ -8,7 +8,8 @@ archive.org and other sites are also incomplete. Preserving them allows
 competitors (or anyone else who is interested) to use them as practice.
 
 Stuff in this archive is copyright University of Southampton (except for the
-identification of ciphers and keys ("solution.txt" for each challenge)).
+identification of ciphers and keys ("solution.txt" for each challenge) and any
+scripts or programs in this archive).
 
 All ciphertexts and plaintexts are present, and all ciphers and keys have been identified.
 
