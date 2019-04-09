@@ -3,3 +3,4 @@ Morse code
     Note: .-.-. needs to be deciphered as "-" and not "+"
 block transposition cipher
     permutation = (1,3,0,2,5,4)
+    keyword = BEACON
