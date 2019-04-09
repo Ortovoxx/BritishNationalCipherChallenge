@@ -39,6 +39,7 @@ Other bits we wish we had:
 - 2010 Harry's Game: all ciphertexts and harrysgame.gif
 - 2012 Harry's Game (following the 2011 competition): any ciphertexts after 2B
 - any other years of Harry's Game
+- the official keywords for the transposition ciphers. I won't list them here, so no spoilers.
 
 For those who care about such things, these posters and graphics are missing:
 
