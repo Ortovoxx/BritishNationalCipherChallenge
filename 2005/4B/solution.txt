@@ -3,3 +3,4 @@ Morse code
     Note: ---- = CH
 block transposition cipher
     permutation = (3,4,0,5,2,1)
+    keyword = PRITOK
