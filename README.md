@@ -40,7 +40,8 @@ Other bits we wish we had:
 - 2012 Harry's Game (following the 2011 competition): any ciphertexts after 2B
 - any other years of Harry's Game
 
-For those who care about such things, these posters are missing:
+For those who care about such things, these posters and graphics are missing:
 
 - 2002 poster
+- 2006 desktop wallpapers (3 images in various sizes)
 - 2016 full-sized poster
