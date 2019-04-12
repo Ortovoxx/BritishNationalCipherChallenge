@@ -32,7 +32,7 @@ Other bits we wish we had:
 - 2006 GIFs of the ciphertexts
 - 2007 GIFs of the ciphertexts and plaintexts (we only have 0A and 0B and plaintexts for 8A and 8B)
 - 2008 parts 1A and 1B from the challenges that appeared in the forum
-- 2008 GIFs of the ciphertexts and plaintexts (we only have 8A and 8B plaintexts)
+- 2008 GIFs of the ciphertexts and plaintexts (we only have 8A and 8B ciphertexts)
 - 2009 GIFs of the ciphertexts and plaintexts (we only have 8A and 8B)
 - 2010 GIFs of the ciphertexts and plaintexts (we only have 8A and 8B)
 - 2010 part 8B: Jokers.pdf ("Harry's Jokers"), a file of the playing cards
