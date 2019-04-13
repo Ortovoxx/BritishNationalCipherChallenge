@@ -8,5 +8,5 @@ key phrase (offsets) = AGRICOLAE MORTEM
 
 (Why is it in the accusative case?)
 
-Harry says it's an affice cipher, followed by Vigenere. So decrypt in the reverse order:
+Harry says it's an affine cipher, followed by Vigenere. So decrypt in the reverse order:
 Vigenere with key AGRICOLAE MORTEM, then affine with multiplier 7 and offset 0.
