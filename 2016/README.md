@@ -1,3 +1,5 @@
+Challenges 1 and 2 were practice challenges this year.
+
 Sometimes the titles of the challenges are clues to solving them.
 So here are the titles for 2016:
 
