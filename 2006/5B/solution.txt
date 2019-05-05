@@ -1,4 +1,5 @@
-There are two alphabets for substitution, alternating between sentences.
-key1 = GHIKLMNOPQRSTUWXYZABCDEF
-key2 = RSTUWXYZABCDEFGHIKLMNOPQ
-Note that he only uses 24 letters, and that each substitution is a Caesar shift.
+Caesar shift ciphers; there are two, alternating between sentences.
+They only use 24 letters (no J or V).
+
+key1 = 16
+key2 = 6
