@@ -31,6 +31,7 @@ Other bits we wish we had:
 
 - 2001 official hints
 - 2002 GIFs of the texts (we know they exist)
+- 2003 GIFS of the texts (we know they exist)
 - 2005 GIFs of the ciphertexts and plaintexts (we only have a few)
 - 2006 GIFs of the ciphertexts
 - 2007 GIFs of the ciphertexts and plaintexts (we only have 0A and 0B and plaintexts for 8A and 8B)
