@@ -10,3 +10,7 @@ key phrase (offsets) = AGRICOLAE MORTEM
 
 Harry says it's an affine cipher, followed by Vigenere. So decrypt in the reverse order:
 Vigenere with key AGRICOLAE MORTEM, then affine with multiplier 7 and offset 0.
+
+It is also a type 2 polyalphabetic substitution cipher with alphabet key
+AHOVCJQXELSZGNUBIPWDKRYFMT (from the affine part) and shift key
+AGRICOLAE MORTEM (from the Vigenere part).
