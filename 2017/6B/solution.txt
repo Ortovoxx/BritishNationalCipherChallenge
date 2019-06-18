@@ -11,6 +11,17 @@ key phrase (offsets) = AGRICOLAE MORTEM
 Harry says it's an affine cipher, followed by Vigenere. So decrypt in the reverse order:
 Vigenere with key AGRICOLAE MORTEM, then affine with multiplier 7 and offset 0.
 
-It is also a type 2 polyalphabetic substitution cipher (Quagmire II) with alphabet key
-AHOVCJQXELSZGNUBIPWDKRYFMT (from the affine part) and shift key
-AGRICOLAE MORTEM (from the Vigenere part).
+Because it is a monoalphabetic substitution (the affine cipher) followed by a Vigenere,
+this is a type 1 polyalphabetic substitution cipher, also called Quagmire I. But then
+the keys are AGRICOLAEMORTEM for the shifts, and NCRGVKZODSHWLAPETIXMBQFUJY for the
+alphabet. Note that the alphabet key is the substitution key for an affine cipher with
+multiplier 15 and offset 13.
+
+But wait, there's more! Possibly because of the regularity in an affine cipher's
+key alphabet, this challenge can also be solved as a type 2 (Quagmire II) cipher,
+which can be thought of as a Vigenere followed by a monoalphabetic substitution.
+In this case, the shift key is AGRICOLAEMORTEM and the alphabet key is
+AHOVCJQXELSZGNUBIPWDKRYFMT, which is the substitution key for an affine cipher
+with multiplier 7 and offset 0. Note that if you try to decrypt the affine cipher
+first, then you need to use AMVQECJAIYCVZIY as the Vigenere key; but this is
+just the decryption of AGRICOLAEMORTEM under the affine cipher.
