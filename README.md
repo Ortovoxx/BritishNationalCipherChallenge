@@ -12,7 +12,6 @@ identification of ciphers and keys ("solution.txt" for each challenge) and any
 scripts or programs in this archive).
 
 All ciphertexts and plaintexts are present, and all ciphers and keys have been identified.
-(Except 2001 #5; we are working on it.)
 
 Some data are missing that are necessary for anyone who wants to attempt the
 challenges. We know that, and we're sorry. Here is a list of the missing bits.
