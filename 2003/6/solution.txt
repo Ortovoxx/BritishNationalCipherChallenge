@@ -4,7 +4,7 @@ Symbolic substitution cipher, based on hieroglyphics:
         B foot
         C pool (rectangle)
         D hand
-        E lamp?
+        E sail
         F viper
         G jar stand
         H twisted wick
@@ -19,12 +19,12 @@ Symbolic substitution cipher, based on hieroglyphics:
         Q [not present]
         R mouth
         S door bolt
-        T loaf (semicircle)
-        U swirl
+        T bread (semicircle)
+        U rope
         V mouth with vertical stroke
         W chick
         X foot in boot?
-        Y compass?
+        Y hoe (?)
         Z [not present]
 
 Then, reverse each block of six letters.
