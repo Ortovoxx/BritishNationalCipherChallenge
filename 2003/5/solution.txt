@@ -1,6 +1,6 @@
 block transposition cipher
 permutation = (3,4,2,1,0)
-keyword could be STONE
+keyword = STONE
 
 rough translation:
 
