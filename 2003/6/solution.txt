@@ -1,2 +1,3 @@
 symbolic substitution cipher
 You can work out which symbol represents which letter.
+Then, reverse each block of six letters.
