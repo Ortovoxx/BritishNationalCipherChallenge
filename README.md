@@ -13,18 +13,12 @@ scripts or programs in this archive).
 
 All ciphertexts and plaintexts are present, and all ciphers and keys have been identified.
 
-Some data are missing that are necessary for anyone who wants to attempt the
-challenges. We know that, and we're sorry. Here is a list of the missing bits.
-If you have any of them, please upload in the "issues" section.
+One important missing file is necessary for anyone who wants to attempt the
+challenges. We know that, and we're sorry. Here is a description of the file.
+If you have a copy of it, please upload in the "issues" section.
 
-- 2005 part 8B: the original wiring diagrams or photos needed to reconstruct the machine
-                (FialkaSettings.pdf)
-- 2006 part 7B: the PDF reconciling the literal decryption with the original plaintext
-                (Solution7text.pdf)
 - 2010 part 8B: photo of the "first half" of the deck of cards (we have the final photo
                 that reveals the solution)
-- 2015 part 8B: the original photo of the deck (we have one after two more cards were added,
-                and have a reconstruction of the original)
 
 Other bits we wish we had:
 
@@ -33,6 +27,8 @@ Other bits we wish we had:
 - 2003 GIFS of the texts (we know they exist)
 - 2005 GIFs of the ciphertexts and plaintexts (we only have a few)
 - 2006 GIFs of the ciphertexts
+- 2006 part 7B: the PDF reconciling the literal decryption with the original plaintext
+                (Solution7text.pdf)
 - 2007 GIFs of the ciphertexts and plaintexts (we only have 0A and 0B and plaintexts for 8A and 8B)
 - 2008 parts 1A and 1B from the challenges that appeared in the forum
 - 2008 GIFs of the ciphertexts and plaintexts (we only have 8A and 8B plaintexts)
@@ -41,6 +37,8 @@ Other bits we wish we had:
 - 2010 part 8B: Jokers.pdf ("Harry's Jokers"), a file of the playing cards
 - 2010 Harry's Game: all ciphertexts
 - 2012 Harry's Game (following the 2011 competition): any ciphertexts after 2B
+- 2015 part 8B: the original photo of the deck (we have one after two more cards were added,
+                and have a reconstruction of the original)
 - any other years of Harry's Game
 - the official keywords for the transposition ciphers. I won't list them here, so no spoilers.
 - any official hints that we have not found yet
