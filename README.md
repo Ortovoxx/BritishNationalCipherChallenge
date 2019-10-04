@@ -26,6 +26,7 @@ Other bits we wish we had:
 - 2002 GIFs of the texts (we know they exist)
 - 2003 GIFS of the texts (we know they exist)
 - 2005 GIFs of the ciphertexts and plaintexts (we only have a few)
+- 2005 part 8B: The second (clear) photo of rotor 2
 - 2006 GIFs of the ciphertexts
 - 2006 part 7B: the PDF reconciling the literal decryption with the original plaintext
                 (Solution7text.pdf)
