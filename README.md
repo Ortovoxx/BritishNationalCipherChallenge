@@ -12,13 +12,8 @@ identification of ciphers and keys ("solution.txt" for each challenge) and any
 scripts or programs in this archive).
 
 All ciphertexts and plaintexts are present, and all ciphers and keys have been identified.
-
-One important missing file is necessary for anyone who wants to attempt the
-challenges. We know that, and we're sorry. Here is a description of the file.
-If you have a copy of it, please upload in the "issues" section.
-
-- 2010 part 8B: photo of the "first half" of the deck of cards (we have the final photo
-                that reveals the solution)
+All information that was given when each challenge began is present. For some, we also
+have some of the hints.
 
 Other bits we wish we had:
 
@@ -35,6 +30,7 @@ Other bits we wish we had:
 - 2008 GIFs of the ciphertexts and plaintexts (we only have 8A and 8B plaintexts)
 - 2009 GIFs of the ciphertexts and plaintexts (we only have 8A and 8B)
 - 2010 GIFs of the ciphertexts and plaintexts (we only have 8A and 8B)
+- 2010 part 8B: photo of the "first half" of the deck of cards
 - 2010 part 8B: Jokers.pdf ("Harry's Jokers"), a file of the playing cards
 - 2010 Harry's Game: all ciphertexts
 - 2012 Harry's Game (following the 2011 competition): any ciphertexts after 2B
