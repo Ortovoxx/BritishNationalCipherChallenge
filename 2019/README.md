@@ -8,8 +8,8 @@ The parts and their titles:
 
     0 (introduction, not encrypted)                 Harry Returns
     
-    1A (practice)
-    1B (practice)
+    1A (practice)                                   Bug Hunting
+    1B (practice)                                   Collision Course
     
     2A (practice)
     2B (practice)
