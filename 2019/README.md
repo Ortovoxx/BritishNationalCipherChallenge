@@ -6,13 +6,13 @@ The title of this year's challenge is
 
 The parts and their titles:
 
-    0 (introduction, not encrypted)                 Harry Returns
+    0 (introduction, not encrypted)    Harry Returns
     
-    1A (practice)                                   Bug Hunting
-    1B (practice)                                   Collision Course
+    1A (practice)                      Bug Hunting
+    1B (practice)                      Collision Course
     
-    2A (practice)
-    2B (practice)
+    2A (practice)                      Snooping Around
+    2B (practice)                      A Change of Course
     
     3A (practice)
     3B (practice)
