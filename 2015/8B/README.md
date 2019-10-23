@@ -13,5 +13,5 @@ According to past participants, here is the original deck given:
 Here, "0" denotes an unknown value, 11 = jack, 12 = queen, 13 = king,
 A = joker A, B = joker B, C = clubs, D = diamonds, H = hearts, S = spades.
 
-The challenge organizers have promised an original image, but, you know, "busy".
-I will post it when it arrives.
+The challenge organizers have promised an original image, and I will
+post it when it arrives. Meanwhile, I have posted a reconstructed image.
