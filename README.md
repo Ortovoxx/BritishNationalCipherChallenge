@@ -11,10 +11,9 @@ Stuff in this archive is copyright University of Southampton (except for the
 identification of ciphers and keys ("solution.txt" for each challenge) and any
 scripts or programs in this archive).
 
-All ciphertexts and plaintexts are present, and all ciphers and keys have been identified.
-All information that was given when each challenge began is present, with this exception:
-
-- 2010 part 8B: photo of the "first half" (28) of the deck of cards
+All ciphertexts and plaintexts are present, and all ciphers and keys have been
+identified. All information that was given when each challenge began is present,
+so you can do the challenges for yourself.
 
 Other bits we wish we had:
 
