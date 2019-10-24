@@ -14,8 +14,8 @@ The parts and their titles:
     2A (practice)                      Snooping Around
     2B (practice)                      A Change of Course
     
-    3A (practice)
-    3B (practice)
+    3A (practice)                      Alarm Bells Ring
+    3B (practice)                      Treading Softly
     
     4A
     4B
