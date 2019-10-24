@@ -30,6 +30,7 @@ Other bits we wish we had:
 - 2008 GIFs of the ciphertexts and plaintexts (we only have 8A and 8B plaintexts)
 - 2009 GIFs of the ciphertexts and plaintexts (we only have 8A and 8B)
 - 2010 GIFs of the ciphertexts and plaintexts (we only have 8A and 8B)
+- 2010 part 8B "teaser" that was released before the challenge was posted
 - 2010 part 8B: Jokers.pdf ("Harry's Jokers"), a file of the playing cards
 - 2010 Harry's Game: all ciphertexts
 - 2012 Harry's Game (following the 2011 competition): any ciphertexts after 2B
