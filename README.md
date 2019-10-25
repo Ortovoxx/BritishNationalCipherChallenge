@@ -36,6 +36,7 @@ Other bits we wish we had:
 - 2012 Harry's Game (following the 2011 competition): any ciphertexts after 2B
 - 2015 part 8B: the original photo of the deck (we have one after two more cards were added,
                 and have a reconstruction of the original)
+- 2017 images of ciphertexts for 4A through 8B
 - any other years of Harry's Game
 - the official keywords for the transposition ciphers. I won't list them here, so no spoilers.
 - any official hints that we have not found yet
