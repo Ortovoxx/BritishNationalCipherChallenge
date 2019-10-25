@@ -44,4 +44,3 @@ For those who care about such things, these posters and graphics are missing:
 
 - 2002 poster
 - 2006 desktop wallpapers (3 images in various sizes)
-- 2016 full-sized poster
