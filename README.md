@@ -37,6 +37,7 @@ Other bits we wish we had:
 - 2015 part 8B: the original photo of the deck (we have one after two more cards were added,
                 and have a reconstruction of the original)
 - 2017 images of ciphertexts for 4A through 8B
+- 2018 images of ciphertexts for 2A through 10B
 - any other years of Harry's Game
 - the official keywords for the transposition ciphers. I won't list them here, so no spoilers.
 - any official hints that we have not found yet
