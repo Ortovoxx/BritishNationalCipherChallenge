@@ -3,9 +3,16 @@
 This is an unofficial archive of the British National Cipher Challenge
 (https://www.cipherchallenge.org/). The purpose is to collect all parts
 of the challenges in one place and to preserve them before they are lost
-to bit rot and server decay. The official site only goes back two years, and
+to bit rot and server decay. The official site only goes back three years, and
 archive.org and other sites are also incomplete. Preserving them allows
 competitors (or anyone else who is interested) to use them as practice.
+
+The official site:
+
+    2016.cipherchallenge.org
+    2017.cipherchallenge.org
+    2018.cipherchallenge.org
+    www.cipherchallenge.org [current year]
 
 Stuff in this archive is copyright University of Southampton (except for the
 identification of ciphers and keys ("solution.txt" for each challenge) and any
@@ -34,8 +41,7 @@ Other bits we wish we had:
 - 2010 part 8B: Jokers.pdf ("Harry's Jokers"), a file of the playing cards
 - 2010 Harry's Game: all ciphertexts
 - 2012 Harry's Game (following the 2011 competition): any ciphertexts after 2B
-- 2015 part 8B: the original photo of the deck (we have one after two more cards were added,
-                and have a reconstruction of the original)
+- 2015 part 8B: remaining hints (images of the deck with more cards showing)
 - 2017 images of ciphertexts for 4A through 8B
 - 2018 images of ciphertexts for 2A through 10B
 - any other years of Harry's Game
