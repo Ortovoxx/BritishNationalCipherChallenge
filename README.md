@@ -26,7 +26,7 @@ Other bits we wish we had:
 
 - 2001 official hints
 - 2002 some of the GIFs of the texts: plaintexts 3, 5, 6, 8, 9, 12, 14, 15; ciphertext 13
-- 2003 GIFS of the texts (we know they exist)
+- 2003 some of the GIFs of the texts: plaintexts 3, 4, 5, 8; ciphertexts 1, 2, 3, 4, 5, 7
 - 2005 GIFs of the ciphertexts and plaintexts (we only have a few)
 - 2005 part 8B: The second (clear) photo of rotor 2
 - 2006 GIFs of the ciphertexts
