@@ -30,8 +30,6 @@ Other bits we wish we had:
 - 2005 GIFs of the ciphertexts and plaintexts (we only have a few)
 - 2005 part 8B: The second (clear) photo of rotor 2
 - 2006 GIFs of the ciphertexts
-- 2006 part 7B: the PDF reconciling the literal decryption with the original plaintext
-                (Solution7text.pdf)
 - 2007 GIFs of the ciphertexts and plaintexts (we only have 0A and 0B and plaintexts for 8A and 8B)
 - 2008 parts 1A and 1B from the challenges that appeared in the forum
 - 2008 GIFs of the ciphertexts and plaintexts (we only have 8A and 8B plaintexts)
