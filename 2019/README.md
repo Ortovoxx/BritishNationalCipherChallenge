@@ -6,25 +6,25 @@ The title of this year's challenge is
 
 The parts and their titles:
 
-    0 (introduction, not encrypted)    Harry Returns
+    0 (introduction, not encrypted)    Harry returns
     
-    1A (practice)                      Bug Hunting
-    1B (practice)                      Collision Course
+    1A (practice)                      Bug hunting
+    1B (practice)                      Collision course
     
-    2A (practice)                      Snooping Around
-    2B (practice)                      A Change of Course
+    2A (practice)                      Snooping around
+    2B (practice)                      A change of course
     
-    3A (practice)                      Alarm Bells Ring
-    3B (practice)                      Treading Softly
+    3A (practice)                      Alarm bells ring
+    3B (practice)                      Treading softly
     
-    4A                                 A Narrow Escape
-    4B                                 Separation Anxiety
+    4A                                 A narrow escape
+    4B                                 Separation anxiety
     
     5A                                 Wanted ...
-    5B                                 The Leak
+    5B                                 The leak
     
-    6A
-    6B
+    6A                                 A conspiracy, really?
+    6B                                 Comrades
     
     7A
     7B
