@@ -36,7 +36,6 @@ Other bits we wish we had:
 - 2009 GIFs of the ciphertexts and plaintexts (we only have 8A and 8B)
 - 2010 GIFs of the ciphertexts and plaintexts (we only have 8A and 8B)
 - 2010 part 8B "teaser" that was released before the challenge was posted
-- 2010 Harry's Game: all ciphertexts
 - 2012 Harry's Game (following the 2011 competition): ciphertexts (and plaintexts) 3A, 4A and onward
 - 2015 part 8B: remaining hints (images of the deck with more cards showing)
 - 2017 images of ciphertexts for 4A through 8B
