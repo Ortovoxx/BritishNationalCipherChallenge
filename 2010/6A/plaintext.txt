@@ -1,33 +1,32 @@
-harry
+Harry,
 
-i followed kholi to the nazi hq in uttar pradesh it seems that he has
-friends on the inside and he has been able to get messages out to me
-the attached report was taken from the desk of the commandant at the
-facility and tells us at last what is going on the last sentence is
-almost flattering good to know we are getting to them
+I followed Kholi to the Nazi HQ in Uttar Pradesh. It seems that he has
+friends on the inside and he has been able to get messages out to me.
+The attached report was taken from the desk of the Commandant at the
+facility and tells us at last what is going on. The last sentence is
+almost flattering! Good to know we are getting to them.
 
-by the way the encryption fooled me for a while figured it must be
-another transposition cipher and it is but boy is it cunning whoever
-designed it took the name a bit literally i think any way the key is
-to figure out the shape the spacing is very confusing but get rid of
-that and count the characters what do you notice i'll leave the rest
-to you
+By the way, the encryption fooled me for a while. Figured it must be
+another transposition cipher and it is, but boy is it cunning. Whoever
+designed it took the name a bit literally I think. Anyway, the key is to
+figure out the shape. The spacing is very confusing, but get rid of
+that and count the characters. What do you notice? I'll leave the rest
+to you.
 
-could you follow up on this report with your contacts in the states
-maybe the guys mentioned townes gordon and zeiger could tell us how
-likely it is that the nazis can actually build this device
+Could you follow up on this report with your contacts in the States?
+Maybe the guys mentioned (Townes, Gordon and Zeiger) could tell us how
+likely it is that the Nazis can actually build this device.
 
-in the meantime i am making plans for an assault on the labs we have
-two objectives of course we need to stop the nazis but we also need
-to rescue kholi and his friends i figure having him on the inside is
-a big plus if we can coordinate things right i have an idea to destroy
-the entire base but i will need quite a large supply of rdx not the
+In the meantime I am making plans for an assault on the labs. We have
+two objectives, of course. We need to stop the Nazis, but we also need
+to rescue Kholi and his friends. I figure having him on the inside is
+a big plus. If we can coordinate things right I have an idea to destroy
+the entire base, but I will need quite a large supply of RDX. Not the
 sort of thing you can walk into a hardware store and ask for without
-raising a few questions do you have a source for tha there
+raising a few questions. Do you have a source for that here?
 
-let me know when you arrive and i will arrange transport and
-accommodation near the power station
+Let me know when you arrive and I will arrange transport and accommodation
+near the power station. I suggest replying with a Vigenere cipher and
+keyword of length two.
 
-i suggest replying with a vigenere cipher and keyword of length two
-
-charlie
+Charlie
