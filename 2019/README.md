@@ -1,3 +1,4 @@
+Searching close to home
 2019 British National Cipher Challenge
 
 The title of this year's challenge is
@@ -26,8 +27,8 @@ The parts and their titles:
     6A                                 A conspiracy, really?
     6B                                 Comrades
     
-    7A
-    7B
+    7A                                 Program Alarm
+    7B                                 Searching close to home
     
     8A
     8B
